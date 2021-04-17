@@ -1,3 +1,3 @@
-# file2
+# Domain 2
 
 source: `{{ page.path }}`
