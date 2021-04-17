@@ -1,6 +1,6 @@
 # Domain 2: Design High-Performing Architectures
 
-
+{% include list.liquid all=true %}
 
 - 2.1 Identify elastic and scalable compute solutions for a workload
 - 2.2 Select high-performing and scalable storage solutions for a workload
