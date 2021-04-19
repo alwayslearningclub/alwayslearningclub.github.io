@@ -1,10 +1,9 @@
 # Learn Some Stuff
-{: .fs-9 }
 
 The Always Learning Club is a growing repository of links, data, and information for the tech-minded!
-{: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/thehandsomezebra/alwayslearningclub){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](#getting-started)
+[View it on GitHub](https://github.com/thehandsomezebra/alwayslearningclub)
 
 ---
 
@@ -33,12 +32,3 @@ The Always Learning Club is distributed by an [MIT license](https://github.com/t
 
 When contributing to this repository, please first discuss the change you wish to make via issue with the owner of this repository. Read more about [becoming a contributor](alwayslearning.club/docs/how-to-contribute).
 
-#### Thank you to the contributors!
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
