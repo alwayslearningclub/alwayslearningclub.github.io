@@ -2,7 +2,7 @@
 
 The Always Learning Club is a growing repository of links, data, and information for the tech-minded!
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/thehandsomezebra/alwayslearningclub){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](#getting-started){: .btn .fs-5 .mb-4 .mb-md-0 } [View it on GitHub](https://github.com/thehandsomezebra/alwayslearningclub){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
