@@ -10,5 +10,3 @@
 
 
 
-
-source: `{{ page.path }}`

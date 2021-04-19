@@ -9,5 +9,3 @@
 - 4.3 Design cost-optimized network architectures
 
 
-
-source: `{{ page.path }}`

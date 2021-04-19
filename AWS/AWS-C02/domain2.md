@@ -9,5 +9,3 @@
 - 2.3 Select high-performing networking solutions for a workload
 - 2.4 Choose high-performing database solutions for a workload
 
-
-source: `{{ page.path }}`

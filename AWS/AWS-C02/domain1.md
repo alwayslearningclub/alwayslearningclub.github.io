@@ -1,7 +1,8 @@
 # Domain 1
+
 # Design Resilient Architectures
 
-
+## 30% of Exam
 
 - 1.1 Design a multi-tier architecture solution
 - 1.2 Design highly available and/or fault-tolerant architectures
@@ -10,4 +11,3 @@
 
 
 
-source: `{{ page.path }}`

@@ -1,3 +1,3 @@
 # AWS-C02
 
-source: `{{ page.path }}`
+{% include list.liquid all=true %}
