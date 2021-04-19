@@ -3,3 +3,4 @@ _site
 .sass-cache
 notes.md
 Gemfile.lock
+do_not_add/
