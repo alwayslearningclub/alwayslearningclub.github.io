@@ -51,6 +51,7 @@ Build your technical skills with these Amazon-recommended courses:
 **[Architecting on AWS - Accelerator](https://aws.amazon.com/training/course-descriptions/architecting-aws-accelerator/)** | Classroom
 **[Explore more AWS Architect training](https://aws.amazon.com/training/learn-about/architect/)**
 
-
+---
+# Dive In!
 
 {% include list.liquid all=true %}
