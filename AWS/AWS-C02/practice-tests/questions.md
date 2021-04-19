@@ -2,14 +2,11 @@
 
 Testing github pages capabilities to expand (so that it can show/hide the answers)
 
-
-
+---
+question text question text question text?
 <details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  <summary>Click to see the answer...</summary>
+  Answer will be here.
 </details>
+
+---
