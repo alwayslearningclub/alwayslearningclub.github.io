@@ -30,5 +30,5 @@ The Always Learning Club is distributed by an [MIT license](https://github.com/t
 
 ### Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue with the owner of this repository. Read more about [becoming a contributor](alwayslearning.club/docs/how-to-contribute).
+When contributing to this repository, please first discuss the change you wish to make via issue with the owner of this repository. Read more about [becoming a contributor](alwayslearning.club/how-to-contribute).
 
