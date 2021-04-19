@@ -4,7 +4,7 @@
 
 
 
-https://aws.amazon.com/certification/certified-solutions-architect-associate/
+[The following information is from AWS...](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 
 
@@ -38,53 +38,19 @@ There is no better preparation than hands-on experience. There are many relevant
 
 ---
 
-**From AWS**
+Amazon-recommended training:
 
 **[Find classroom training](https://www.aws.training/training/schedule?courseId=10006)**
-
-[**Take free digital training**](https://www.aws.training/learningobject/curriculum?id=20685)
-
+**[Take free digital training](https://www.aws.training/learningobject/curriculum?id=20685)**
 **[Find a webinar](https://aws.amazon.com/certification/get-certified-virtual-and-digital-training/)**
 
-
-
----
-
-Build your technical skills with these recommended courses:
+Build your technical skills with these Amazon-recommended courses:
 
 **[AWS Technical Essentials](https://aws.amazon.com/training/course-descriptions/essentials/)** | Classroom
 **[Architecting on AWS](https://aws.amazon.com/training/course-descriptions/architect/)** | Classroom
 **[Architecting on AWS - Accelerator](https://aws.amazon.com/training/course-descriptions/architecting-aws-accelerator/)** | Classroom
-
 **[Explore more AWS Architect training](https://aws.amazon.com/training/learn-about/architect/)**
 
 
-
----
-
-
-
-
-
-## Training: Free Category
-
-- [YouTube: 10+ hr course from freeCodeCamp.org](https://youtu.be/Ia-UEYYR44s)
-- [YouTube: 4+ hr session reviewing ~347 questions from The CloudAdvisory](https://youtu.be/B52DwSvWEGM)
-- [YouTube: Playlist of preparation training from The CloudAdvisory](https://www.youtube.com/watch?v=tO_K37RC3q4&list=PLVOdqXbCs7bVnU77Gs-rTfq4H_LcxB31U&t=0s)
-- [GitHub from Alozano-77](https://github.com/alozano-77/AWS-SAA-C02-Course)
-
-
-
-## Training: $$ Category
-
-- [DigitalCloud Training](https://digitalcloud.training/order_step/checkout-csaa-ultimate/)
-- [Udemy](https://www.udemy.com/courses/search/?q=saa-c02)
-  - [from DolfinED](https://www.udemy.com/course/aws-certified-solutions-architect-associate-exam/)
-  - [from Stephane Maarek](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
-  - [from CloudGuru](https://www.udemy.com/course/aws-certified-solutions-architect-associate/)
-  - [from Linux Academy](https://www.udemy.com/course/linux-academy-aws-certified-solutions-architect-associate/)
-  - [from Zeal Vora](https://www.udemy.com/course/aws-certified-solutions-architect-associate-2018/)
-- [Tutorials Dojo](https://portal.tutorialsdojo.com/?s=saa-c02)
-- ...more to come
 
 {% include list.liquid all=true %}
