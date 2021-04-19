@@ -18,7 +18,9 @@
     [[?]] Hint 2
     [[?]] Hint 3
     **************************
-    
-    Explain the answer here.
-    
+
+    Diese zusätzliche Auflösung ist optional und kann so __viele__
+    Markdown-Blöcke und Absätze, Bilder, Videos oder Formeln
+    enthalten, wie sie wünschen ...
+
     **************************
