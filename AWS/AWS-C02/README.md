@@ -1,6 +1,6 @@
 # AWS-C02
 
-##  AWS Certified Solutions Architect - Associate (SAA-C02)
+##  AWS Certified Solutions Architect - Associate
 
 
 
