@@ -10,7 +10,7 @@ The Always Learning Club is a growing repository of links, data, and information
 ## Getting started
 
 ### Help us grow!
-We're always excited for more data!  If you have something you'd like to add, check out the <a href="http://alwayslearning.club/docs/how-to-contribute/">How to Contribute</a> for more information. 
+We're always excited for more data!  If you have something you'd like to add, check out the <a href="/how-to-contribute">How to Contribute</a> for more information. 
 
 ### Everyone Can Learn!
 This repository of holds learning resources for everyone!
@@ -30,5 +30,5 @@ The Always Learning Club is distributed by an [MIT license](https://github.com/t
 
 ### Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue with the owner of this repository. Read more about [becoming a contributor](alwayslearning.club/how-to-contribute).
+When contributing to this repository, please first discuss the change you wish to make via issue with the owner of this repository. Read more about [becoming a contributor](/how-to-contribute).
 
