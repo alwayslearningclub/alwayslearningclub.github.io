@@ -19,6 +19,6 @@
     [[?]] Hint 3
     **************************
 
-    Explanation of answer
+    Explanation of answer here
 
     **************************
