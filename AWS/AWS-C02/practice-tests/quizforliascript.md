@@ -11,25 +11,15 @@
 
 ---
 
-**Welche Markdown-Erweiterung wird hier vorgestellt?**
+**Fill in the blank with the word "bob"**
 
-    [[LiaScript]]
-    [[?]] Es handelt sich dabei um eine neue Sprache...
-    [[?]] Diese wurde speziell zur Erstellung von online-Kursen entwickelt.
-    [[?]] Es kommen ein __L__ und ein __S__ darin vor.
-    <script>
-      let input = "@input".trim().toLowerCase();
-      input == "liascript";
-    </script>
+    [[bob]]
+    [[?]] Hint 1
+    [[?]] Hint 2
+    [[?]] Hint 3
+
     **************************
 
-    Diese zusätzliche Auflösung ist optional und kann so __viele__
-    Markdown-Blöcke und Absätze, Bilder, Videos oder Formeln
-    enthalten, wie sie wünschen ...
-
-    $$
-       \sum_{i=1}^\infty\frac{1}{n^2}
-            =\frac{\pi^2}{6}
-    $$
-
+    Explain the answer here.
+    
     **************************
