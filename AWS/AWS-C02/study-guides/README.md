@@ -27,6 +27,3 @@ From Amazon: [Browse the training website for exam preparatory courseware on arc
 
 ---
 
-
-
-{% include list.liquid all=true %}
